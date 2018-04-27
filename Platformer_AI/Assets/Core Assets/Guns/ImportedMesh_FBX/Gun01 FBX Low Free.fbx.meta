@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: e7da0a6b88725fd49be111412a5416be
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lo_Acc1
+    100004: Lo_Barrel
+    100006: Lo_Body
+    100008: Lo_Buttstock
+    100010: Lo_Clip1_Straight
+    100012: Lo_Clip2_Bent
+    100014: Lo_FingerGuard
+    100016: Lo_ForeStock
+    100018: Lo_Grip
+    100020: Lo_Muzzle
+    100022: Lo_Scope
+    100024: Lo_Targeter_Base
+    100026: Lo_Targeter_Sight
+    100028: Lo_Trigger
+    400000: //RootNode
+    400002: Lo_Acc1
+    400004: Lo_Barrel
+    400006: Lo_Body
+    400008: Lo_Buttstock
+    400010: Lo_Clip1_Straight
+    400012: Lo_Clip2_Bent
+    400014: Lo_FingerGuard
+    400016: Lo_ForeStock
+    400018: Lo_Grip
+    400020: Lo_Muzzle
+    400022: Lo_Scope
+    400024: Lo_Targeter_Base
+    400026: Lo_Targeter_Sight
+    400028: Lo_Trigger
+    2300000: Lo_Acc1
+    2300002: Lo_Barrel
+    2300004: Lo_Body
+    2300006: Lo_Buttstock
+    2300008: Lo_Clip1_Straight
+    2300010: Lo_Clip2_Bent
+    2300012: Lo_FingerGuard
+    2300014: Lo_ForeStock
+    2300016: Lo_Grip
+    2300018: Lo_Muzzle
+    2300020: Lo_Scope
+    2300022: Lo_Targeter_Base
+    2300024: Lo_Targeter_Sight
+    2300026: Lo_Trigger
+    3300000: Lo_Acc1
+    3300002: Lo_Barrel
+    3300004: Lo_Body
+    3300006: Lo_Buttstock
+    3300008: Lo_Clip1_Straight
+    3300010: Lo_Clip2_Bent
+    3300012: Lo_FingerGuard
+    3300014: Lo_ForeStock
+    3300016: Lo_Grip
+    3300018: Lo_Muzzle
+    3300020: Lo_Scope
+    3300022: Lo_Targeter_Base
+    3300024: Lo_Targeter_Sight
+    3300026: Lo_Trigger
+    4300000: Lo_ForeStock
+    4300002: Lo_Grip
+    4300004: Lo_Buttstock
+    4300006: Lo_Body
+    4300008: Lo_Trigger
+    4300010: Lo_FingerGuard
+    4300012: Lo_Barrel
+    4300014: Lo_Acc1
+    4300016: Lo_Muzzle
+    4300018: Lo_Targeter_Base
+    4300020: Lo_Targeter_Sight
+    4300022: Lo_Scope
+    4300024: Lo_Clip1_Straight
+    4300026: Lo_Clip2_Bent
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lo_ForeStock
+    second: {fileID: 2100000, guid: af2705f074eff9b4ea38330d6b16f591, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
